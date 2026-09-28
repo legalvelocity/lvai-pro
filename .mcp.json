@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "legal-velocity": {
+      "type": "http",
+      "url": "https://mcp.legalvelocity.ai/mcp"
+    }
+  }
+}
