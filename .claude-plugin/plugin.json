@@ -1,6 +1,6 @@
 {
   "name": "lvai-pro",
-  "version": "14.0.2",
+  "version": "14.0.3",
   "description": "The complete Legal Velocity AI platform for Claude. Legal research, citation verification, Citation Binders and legal writing on the Midpage or Descrybe connector — whichever the firm has (both are cross-checked when both are connected); NJ and NY real estate transaction management (contracts, riders, closing documents, title review, date calendaring); intelligent PDF form filling. Skill content is delivered by the Legal Velocity connector under the firm's license.",
   "author": {
     "name": "Legal Velocity AI",

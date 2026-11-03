@@ -16,11 +16,10 @@ description: >
 2. Show the user exactly what it returns (licensed to, license ID, seat, plan, expiry, status, and any renewal or
    billing link it includes). Do not add, guess or look up anything else.
 3. If no `license_status` tool exists in this session, tell the user:
-   > LVAI Pro needs the **Legal Velocity** connector. In Claude, open
-   > **Customize → Connectors (older versions: your name → Settings → Connectors) → the Discover tab**, search *Legal Velocity*,
-   > click **Connect** and sign in with the email address on your LVAI Pro license (a 6-digit code is emailed to you), then try
-   > again. If it is already connected, click **+** in the message box → **Connectors** and switch Legal Velocity on for this chat.
-   > Help: admin@legalvelocity.ai
+   > LVAI Pro needs its **Legal Velocity** sign-in. In Claude, open **Customize → Plugins → LVAI Pro**,
+   > click **Finish setup**, then **Sign in** next to Legal Velocity, and sign in with the email address on your LVAI Pro
+   > license (a 6-digit code is emailed to you). Then try again. If it is already signed in, click **+** in the message box →
+   > **Connectors** and switch Legal Velocity on for this chat. Help: admin@legalvelocity.ai
 
 Never search the user's folders for license files, and never ask for a server folder or an admin key — those belong
 to the vendor's separate administration plugin, not to the user's license check.
